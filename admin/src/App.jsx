@@ -9,7 +9,6 @@ import { ToastContainer } from 'react-toastify';
 
 const App = () => {
   const url = 'https://food-del-backend-0l9c.onrender.com';
-  console.log("Admin App Backend URL:", url);
   return (
     <div>
       <ToastContainer />
